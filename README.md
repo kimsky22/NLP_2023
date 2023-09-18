@@ -21,4 +21,4 @@
 |# |sessions |keywords |
 |:-:|:-:|:-:|
 |1 |Code Cells 🌰|[variable, assign](https://github.com/kimsky22/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb) |
-|2 |Five Type of Data🐇||
+|2 |Five Type of Data🐇|| 
