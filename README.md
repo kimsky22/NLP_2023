@@ -22,6 +22,15 @@
 |:-:|:-:|:-:|
 |1 |Code Cells 🌰|[variable, assign](https://github.com/kimsky22/NLP_2023/blob/main/1_CodeCells_Basic_.ipynb) |
 |2 |Five Type of Data🐇|| 
+|3 |Indexing Slicing🐇|| 
+|4_1 |IfSatement🐇||
+|4_2 |ForStatement 🐇||
+|4-3 |tryExceptElse_statement🐇||
+|4_4 |WhileStatementwContinueBreak🐇||
+|5 |RegularExpression🐇||
+|5 |RegularExpression_Revised🐇||
+|6 |Definingfunctions🐇||
+|7 |_Class_Method_Member_Object🐇|| 
 
 ### **5. Class Materials**
 | # | Sessions | Keywords |
